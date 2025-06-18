@@ -15,6 +15,7 @@ class GestureController:
         self.frame_width = 1280
         self.frame_height = 720
         
+        #shirt control variable line 20 2.5 and line 21 1.0
         self.shirts = ['shirt1.png', 'shirt2.png', 'shirt3.png']
         self.current_shirt_index = 0
         self.shirt_scale = 2.0
